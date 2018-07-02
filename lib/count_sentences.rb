@@ -27,6 +27,7 @@ end
   end
 
   def count_sentences
+    string.squeeze('.!?').count('.!?')
     binding.pry
   end
 end
