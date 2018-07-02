@@ -31,4 +31,5 @@ end
     self.each do |string|
       string << 3
       string += 1
+    end
 end
