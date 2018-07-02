@@ -30,5 +30,6 @@ end
 
     self.split(/[?!.]/).count
   end
+    binding.pry
 end
-  binding.pry
+
