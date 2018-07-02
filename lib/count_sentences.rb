@@ -28,6 +28,5 @@ end
 
   def count_sentences
     self.split(/[?!.]/).count
-    complex_string.count_sentences
   end
 end
