@@ -27,6 +27,6 @@ end
   end
 
   def count_sentences
-    self.split(/\w[?!.]\W/).length
+    self.split(/\w[?!.]\b/).length
   end
 end
