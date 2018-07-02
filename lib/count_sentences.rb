@@ -30,5 +30,4 @@ end
     self.split(/[?!.]\$/).count
 
   end
-  self
 end
