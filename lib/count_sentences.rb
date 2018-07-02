@@ -30,5 +30,5 @@ end
     self.split(/\w[?!.]/).count
 
   end
-  self("")
+  self
 end
