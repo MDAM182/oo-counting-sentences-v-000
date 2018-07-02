@@ -28,6 +28,6 @@ end
 
   def count_sentences
     self = self.split(/[?!.]/).count
-    seld
+    self
   end
 end
