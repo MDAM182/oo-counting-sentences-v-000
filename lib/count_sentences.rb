@@ -27,9 +27,5 @@ end
   end
 
   def count_sentences
-    count = 0
-    self.each do |string|
-      string << 3
-      string += 1
-    end
+  end
 end
